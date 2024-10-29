@@ -49,3 +49,7 @@ make
 ## Future Improvements
 - Extend to handle punctuation and spaces for general text encryption.
 - Implement a user-configurable cipher grid for added security.
+
+## Authors
+- Davis Carson
+- Matthew Ray
