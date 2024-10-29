@@ -1,4 +1,4 @@
-// Encrypt.c
+// encrypt.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
